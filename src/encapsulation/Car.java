@@ -6,6 +6,9 @@ public class Car {
 	private String make;
 	private int wheels;
 	public int doors;
+	public int door_1;
+
+
 	
 	public int getDoors() {
 		return doors;
