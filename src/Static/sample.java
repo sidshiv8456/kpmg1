@@ -1,0 +1,6 @@
+package Static;
+
+public enum sample {
+	SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY;
+	
+}
